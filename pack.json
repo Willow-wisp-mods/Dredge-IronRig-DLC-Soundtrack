@@ -1,0 +1,12 @@
+{
+  "name": "Dredge Iron Rig Full Theme",
+  "author": "WillowMossMods",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "description": "The Dredge IronRig OST",
+  "music": true,
+  "mappings": {},
+  "ignore": [
+    "intro_music.mp3"
+  ]
+}
